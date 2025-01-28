@@ -1,2 +1,2 @@
 # ore_miner
-Scripts in PowerShell &amp; Bash to mine ore on Solana.
+Scripts in PowerShell &amp; Bash to mine Ore token on Solana.
